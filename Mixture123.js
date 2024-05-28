@@ -1,4 +1,4 @@
-	/* WARNING: not finished */
+lo	/* WARNING: not finished */
 
 
 
@@ -248,7 +248,7 @@ function mixture(elementList)
         }
         else
         {
-            state = "solid";
+            state = "liquid";
         }
         
         elements[name] = {
